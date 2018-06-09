@@ -1,0 +1,14 @@
+{
+  "name": "filapsy",
+  "version": "1.0.0",
+  "description": "Developed by Fabian",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
